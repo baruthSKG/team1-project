@@ -27,7 +27,7 @@ def main():
     driving_tally = 0
     sandbox_tally = 0
     funny_tally = 0
-    competitive_tal = 0ly = 0
+    competitive_tally = 0
     martial_arts_tally = 0
     memes_tally = 0
     management_tally = 0
